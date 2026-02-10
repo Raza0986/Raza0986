@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Jill+Dhandhukiya!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Ansari Raza!" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWljaWQxejl5Y2RhbTJjb3Q4cDJveG1vazc0OTM1aTkwaGtuODl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding Animation" width="400" />
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWljaWQxejl5Y2RhbTJjb3Q4cDJveG1vazc0OTM1aTkwaGtuODl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding Animation" width="400" />a
 <br/>
 
 
@@ -16,13 +15,13 @@
 <img src="https://img.shields.io/badge/Languages-%23121011.svg?style=for-the-badge"/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go,solidity,dart" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,go" />
 <br/>
 
 <img src="https://img.shields.io/badge/Frontend-%23121011.svg?style=for-the-badge"/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,flutter,electron" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,flutter" />
 <br/>
 
 <img src="https://img.shields.io/badge/Backend-%23121011.svg?style=for-the-badge"/>
@@ -87,6 +86,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jilldhandhukiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
